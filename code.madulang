@@ -1,0 +1,14 @@
+:: This code prints "Hello World" in the console.;
+BLOCK {
+    PRINT "What is your name?";
+    INPUT name;
+    PRINT "How old are you?";
+    INPUT age;
+    PRINT "Hello $name please wait 5 seconds.";
+    WAIT 5000;
+    PRINT "You are $age years old!";
+}
+
+LOOP 2 {
+    PRINT $i;
+}
