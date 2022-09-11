@@ -38,7 +38,7 @@ Version 1.0.0
 ## Variables
 
 - allvariables
-    - In this variabel are a list of all variables names.
+    - In this variable are a list of all variables names.
 - i
     - In all loops you can use the variabel i.
 
