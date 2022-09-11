@@ -1,4 +1,7 @@
 <h1 style="text-align: center;">Madulang</h1>
+
+### The first programming language programmed in Javascript.
+
 <img style="position: relative; left: 50%; transform: translate(-50%);" src="https://cdn.discordapp.com/attachments/916719076078919683/1018506139249414214/madulang.png" alt="Test">
 <br>
 
@@ -10,8 +13,6 @@
 Version 1.0.0
 ```
 </span>
-
-## The first programming language programmed in Javascript.
 
 ## Keywords
 
