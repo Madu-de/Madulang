@@ -23,7 +23,7 @@ Version 1.0.0
     - Iterates through the codeblock.
 - BLOCK { }
     - Like a function but calling itself.
-- JS ~JAVASCRIPT~;
+- JS ~ JAVASCRIPT ~;
     - Execute Javascript code.
 - VAR < NAME > < VALUE >;
     - Save a variable.
