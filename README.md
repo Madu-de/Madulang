@@ -40,7 +40,7 @@ Version 1.0.0
 - allvariables
     - In this variable are a list of all variables names.
 - i
-    - In all loops you can use the variabel i.
+    - In all loops you can use the variable i.
 
 ## Hello World Programm
 
