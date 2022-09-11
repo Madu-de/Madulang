@@ -11,6 +11,8 @@ Version 1.0.0
 ```
 </span>
 
+## The first programming language programmed in Javascript.
+
 ## Keywords
 
 - PRINT < TEXT >;
